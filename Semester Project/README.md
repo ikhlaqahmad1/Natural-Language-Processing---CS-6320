@@ -15,7 +15,7 @@
 
 ## Technical Detail(s)
 #### 1. This program is primarily written in Python with user experience interface using html
-#### 2. The dataset has been taken from Kaggle.com/AI_Human.csv which contains about half
+#### 2. The dataset has been taken from Kaggle.com/AI_Human.csv (https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text?select=AI_Human.csv) which contains about half
 #### a million essays, pre-labeled for human (0) or AI (1)
 #### 3. The model is trained using machine learning technique ***Convolutional Neural Networks***
 #### 4. The model was trained for a total of epochs due to time and computing power constraints.
