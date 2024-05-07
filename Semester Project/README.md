@@ -32,4 +32,8 @@
 #### 5. Flask - For web and user interface
 #### 6. For complete list - requirements.txt
 
+### To Run:
+#### 1. Run app.py and it will give an http://127.0.0.1:5000 address where 5000 is a port number.
+#### 2. After a few runs, the port 5000 may need to be freed or a different port must be assigned
+#### for local hosting.
 
